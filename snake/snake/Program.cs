@@ -12,8 +12,7 @@ namespace snake
         {
             Console.WriteLine("Helloworld");
             Console.ReadLine();
-            Console.WriteLine("Helloworld");
-            Console.ReadLine();
+        
 
         }
     }
